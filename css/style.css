@@ -1,5 +1,4 @@
 
-
 /* Reset */
 *{
     margin: 0;
@@ -28,9 +27,3 @@ section {
     border: 1px dashed black ;
 
 }
-
-.altezza {
-    height: 400px;
-}
-
-
