@@ -22,6 +22,7 @@ ul {
 
 
 
+
 /* Utilities */
 
 .row {
@@ -64,4 +65,8 @@ ul {
     background-repeat: no-repeat;
     background-position-x: center ;
     height: 600px;
+}
+
+#takes {
+    margin-bottom: 0;
 }
