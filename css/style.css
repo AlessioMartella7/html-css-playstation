@@ -37,11 +37,7 @@ ul {
 #sony-logo {
     height: 18px;
 }
- #returnal-logo {
  
- }
-
-
 .dropdown-toggle::after {
     color: gray;
    
@@ -60,4 +56,12 @@ ul {
     background-repeat: no-repeat;
     background-position-x: center ;
     height: 500px;
+}
+
+.bg-takes {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center ;
+    height: 600px;
 }
