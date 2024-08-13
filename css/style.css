@@ -1,4 +1,3 @@
-
 /* Reset */
 *{
     margin: 0;
@@ -7,7 +6,6 @@
 }
 
 /* General */
-
 body{
     font-family:'Rubik Mono One', sans-serif;
     background-color: #fff;
@@ -16,24 +14,10 @@ body{
 section {
     margin-bottom: 30px;
 }
+
 ul {
     list-style: none;
 }
-
-
-
-
-/* Utilities */
-
-.row {
-    border: 1px dashed red;
-}
-
-/* [class^="col"] {
-    background-color: cornflowerblue;
-    border: 1px dashed black ;
-
-} */
 
 #sony-logo {
     height: 18px;
@@ -41,7 +25,6 @@ ul {
  
 .dropdown-toggle::after {
     color: gray;
-   
 }
 
 /* bottone ricerca */
@@ -50,7 +33,7 @@ ul {
     color: #000;
    
 }
-
+/* backgound section returnal */
 .bg-returnal {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
@@ -59,6 +42,7 @@ ul {
     height: 500px;
 }
 
+/* background section takes */
 .bg-takes {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
@@ -73,13 +57,27 @@ ul {
 
 /*---- custom colros ----*/
 
+/* ps-plus */
+
+.bg-my-lgrey {
+    background-color: #BEBCBB;
+}
+
 /* ps-now */
 .bg-my-blue {
     background-color:#161C3B ;
 }
 
-/* footer */
+/* ----footer---- */
 .bg-my-lblue {
     background-color:#00439C;
 }
- 
+ ul > li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+ }
+
+ #sie-logo {
+    height: 40px;
+ }
