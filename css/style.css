@@ -12,7 +12,7 @@ body{
 }
 
 section {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 ul {
@@ -78,6 +78,10 @@ ul {
     font-weight: 600;
  }
 
+#ps-logo-white {
+    height: 70px;
+}
+
  #sie-logo {
-    height: 40px;
+    height: 50px;
  }
