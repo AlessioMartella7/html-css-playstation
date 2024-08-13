@@ -71,9 +71,15 @@ ul {
     margin-bottom: 0;
 }
 
-/* custom colros */
+/*---- custom colros ----*/
 
+/* ps-now */
 .bg-my-blue {
     background-color:#161C3B ;
+}
+
+/* footer */
+.bg-my-lblue {
+    background-color:#00439C;
 }
  
